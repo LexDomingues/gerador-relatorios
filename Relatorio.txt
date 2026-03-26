@@ -1,0 +1,13 @@
+
+RELATÓRIO AUTOMÁTICO DE VENDAS
+-------------------------------
+
+Total vendido: R$ 5945.00
+Quantidade total de produtos vendidos: 90
+
+Produto mais vendido: Perfume1
+
+Resumo por produto:
+- Perfume1: 67 unidades
+- Shampoo: 21 unidades
+- Creme: 2 unidades
